@@ -34,8 +34,10 @@ The dataset used in this project contains socioeconomic indicators for countries
 - Cluster 0 includes countries mainly located in North America, Europe, Oceania, and a few in Asia. These countries demonstrate strong or positive indicators such as robust economic development, higher life expectancy, and lower child mortality rates.
 - Obs: Blank spaces, such as Mexico, indicate countries with no available data.
 
+#### Cluster Map - K-means
 ![Cluster Map - K-means](https://github.com/Eryclis/Fund-Allocation-for-Countries-in-Need/blob/main/Needed%20Help%20per%20Country%20(k-means).png)
 
+#### Cluster Map - DBSCAN
 ![Cluster Map - K-means](https://github.com/Eryclis/Fund-Allocation-for-Countries-in-Need/blob/main/Needed%20Help%20per%20Country%20(DBSCAN).png)
 
 
