@@ -28,6 +28,17 @@ The dataset used in this project contains socioeconomic indicators for countries
   - Davies-Bouldin Score: 1.133
   - Calinski-Harabasz Score: 85.015
 
+#### Findings
+- Cluster 2 comprises countries primarily located in Africa and Asia, characterized by the higher child mortality rates and the lower levels of economic development.
+- Cluster 1 consists of countries distributed across South America, parts of Africa, Europe, and Asia. These countries exhibit average values across all features compared to other clusters.
+- Cluster 0 includes countries mainly located in North America, Europe, Oceania, and a few in Asia. These countries demonstrate strong or positive indicators such as robust economic development, higher life expectancy, and lower child mortality rates.
+- Obs: Blank spaces, such as Mexico, indicate countries with no available data.
+
+![Cluster Map - K-means]([https://github.com/Eryclis/Fund-Allocation-for-Countries-in-Need/blob/main/Needed%20Help%20per%20Country%20(k-means).png])
+
+![Cluster Map - K-means]([https://github.com/Eryclis/Fund-Allocation-for-Countries-in-Need/blob/main/Needed%20Help%20per%20Country%20(DBSCAN).png])
+
+
 
 ## Conclusion
 The clustering analysis revealed distinct clusters of countries based on their socioeconomic characteristics. These insights can inform decision-makers on where to allocate resources effectively.
